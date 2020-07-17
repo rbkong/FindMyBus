@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FindMyBus</string>
+    <string name="noLocation">Could not get your Location</string>
+    <string name="find_my_bus_2019">© Find My Bus 2019</string>
+    <string name="use_gps">Use GPS</string>
+    <string name="or">Or</string>
+    <string name="address">Address:</string>
+    <string name="zip">Zip:</string>
+    <string name="find">Find!!!</string>
+    <string name="your_address">Your address</string>
+    <string name="optional">Optional</string>
+</resources>
